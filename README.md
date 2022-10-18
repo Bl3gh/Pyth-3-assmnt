@@ -20,7 +20,7 @@ Click submit and you redirect to new page
 If you entered everything correctly, you will receive the name, address and a link to information about nft.
 
 Example:
-Submit EQZcteKkieEoh52Y6oe7a8WxS1Do8kagKXAj6q2ycJyA addres to input form
+Submit EQZcteKkieEoh52Y6oe7a8WxS1Do8kagKXAj6q2ycJy addres to input form
 
 Your ouput will be:
 
